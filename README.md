@@ -1,2 +1,2 @@
 # data-camp
-My notebooks to DataCamp projects
+My notebooks along with datasets to [DataCamp](https://www.datacamp.com/profile/srp) projects.
